@@ -13,7 +13,7 @@ st.set_page_config(
 # Title of the page
 st.markdown("# AgroGPt 🌾")
 st.markdown("#### **Welcome to the AgroGPt! 🚜🌾**")
-st.markdown("#### **Your AI-powered farming assistant." Implies a helpful companion for agricultural tasks🌾**")
+st.markdown("#### **Your AI-powered farming assistant. Implies a helpful companion for agricultural tasks🌾**")
 
 st.markdown("<br>", unsafe_allow_html=True)
 
