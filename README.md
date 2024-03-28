@@ -23,7 +23,7 @@ Need quick answers to common farming questions? Our Simple ChatBot is perfect fo
 
 1. Clone this repository.
 2. Install the required dependencies by running `pip install -r requirements.txt`.
-3. Run the Streamlit application using `streamlit Agro_gpt.py`.
+3. Run the Streamlit application using `streamlit app.py`.
 4. Choose between the Simple or Advanced ChatBot and start interacting!
 
 ## Contribution Guidelines
