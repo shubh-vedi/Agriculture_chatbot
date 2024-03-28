@@ -4,15 +4,17 @@ from helper import get_response
 
 # Configure the page
 st.set_page_config(
-    page_title="Agriculture ChatBot 🌾",
+    page_title="AgroGPt🌾",
     page_icon="🤖",
     layout="wide",
     initial_sidebar_state="expanded",
 )
 
 # Title of the page
-st.markdown("# Agriculture ChatBot 🌾")
-st.markdown("#### **Welcome to the Agriculture ChatBot! 🚜🌾**")
+st.markdown("# AgroGPt 🌾")
+st.markdown("#### **Welcome to the AgroGPt! 🚜🌾**")
+st.markdown("#### **Your AI-powered farming assistant." Implies a helpful companion for agricultural tasks🌾**")
+
 st.markdown("<br>", unsafe_allow_html=True)
 
 # Initialize a list to store conversation history
